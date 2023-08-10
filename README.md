@@ -1,1 +1,2 @@
-# IceCreamSite
+# IcecreamSite
+simple site
